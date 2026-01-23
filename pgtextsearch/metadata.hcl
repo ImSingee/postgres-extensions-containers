@@ -1,9 +1,9 @@
 # SPDX-FileCopyrightText: Copyright © contributors to CloudNativePG, established as CloudNativePG a Series of LF Projects, LLC.
 # SPDX-License-Identifier: Apache-2.0
 metadata = {
-  name                     = "pg_textsearch"
+  name                     = "pgtextsearch"
   sql_name                 = "pg_textsearch"
-  image_name               = "pg_textsearch"
+  image_name               = "pgtextsearch"
   shared_preload_libraries = []
   extension_control_path   = []
   dynamic_library_path     = []
